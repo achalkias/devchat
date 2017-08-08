@@ -41,5 +41,11 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSCameraUsageDescription</key>
+	<string>Camera needed so all features work properly.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Microphone needed so all features work properly</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>This needed</string>
 </dict>
 </plist>
